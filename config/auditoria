@@ -1,0 +1,10 @@
+/var/log/samba/auditoria.log {
+    weekly
+    rotate 12
+    compress
+    missingok
+    create 0640 syslog adm
+    postrotate
+        /usr/lib/rsyslog/rsyslog-rotate
+    endscript
+}

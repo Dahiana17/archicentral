@@ -1,0 +1,19 @@
+Pruebas de ArchiCentral - Fri Nov 20 11:12:21 PM -05 2026
+----------------------------------------------
+PASA   F1 Samba esta encendido
+PASA   F1 Luis entra a Ventas
+PASA   F2 Luis NO entra a Contabilidad
+PASA   F2 Ana entra a Contabilidad
+PASA   F2 Marta (Gerencia) puede leer Ventas
+PASA   F3 Carpeta desarrollo compartida por NFS
+PASA   F4 La papelera guarda lo borrado
+PASA   F4 Limpieza de papelera programada
+PASA   F5 Cuotas activas por departamento
+PASA   F5 Alerta de cuotas programada
+PASA   F6 Existe un respaldo
+PASA   F6 Respaldo nocturno programado
+PASA   F7 El registro anota los accesos de Luis
+PASA   Automatizacion: script de departamentos
+PASA   Seguridad: firewall activo
+----------------------------------------------
+Resultado: 15 pasan, 0 fallan
