@@ -106,8 +106,8 @@ Clave de todos: `Demo2026!` (solo para la presentación).
 
 | Integrante | Responsabilidad |
 |---|---|
-| [Nombre 1] | Samba, permisos por área, NFS y papelera (F1, F2, F3, F4) |
-| [Nombre 2] | Cuotas y alertas, respaldo, registro de accesos, firewall y script de departamentos (F5, F6, F7) |
+| [Dahiana Marin] | Samba, permisos por área, NFS y papelera (F1, F2, F3, F4) |
+| [Angel Moncada] | Cuotas y alertas, respaldo, registro de accesos, firewall y script de departamentos (F5, F6, F7) |
 
 ## Limitaciones conocidas
 
