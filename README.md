@@ -114,3 +114,6 @@ Clave de todos: `Demo2026!` (solo para la presentación).
 - El respaldo está en otro volumen del mismo disco; en una empresa real debe ir a otro disco, un NAS o la nube.
 - Por NFS el servidor conoce la IP del equipo, no la persona; la auditoría detallada se hace por Samba.
 - El registro anota también cuando Windows abre carpetas para mostrarlas, por eso tiene muchas líneas `openat`.
+
+## Video de la demo
+  3. https://drive.google.com/file/d/1JEi07nFWQz2NvU6tBa9K0Oq-GHvC4ATK/view?usp=drive_link
